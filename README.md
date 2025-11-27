@@ -37,6 +37,11 @@ Sou um profissional híbrido focado na interseção entre **Negócios, Tecnologi
 
 ### 🏆 Projetos em Destaque
 
+#### 💳 **Banese Card (Product & Tech)**
+*Produtos de TI | Multidisciplinar*
+- **Atuação 360º:** Envolvimento em todas as etapas do produto, desde o **Discovery** e **Design** (UX/UI) até estratégias de **Marketing**.
+- **Analytics:** Criação de sistemas e fluxos de dados customizados (utilizando .NET e Excel) para alimentar e facilitar a geração de Dashboards executivos em Looker Studio e Power BI.
+
 #### 🚀 **Innovation Hub (Liga de Empreendedorismo)**
 *Diretor de Projetos | Atual*
 - Treinamento de equipes em ClickUp e frameworks de gestão.
@@ -51,10 +56,7 @@ Sou um profissional híbrido focado na interseção entre **Negócios, Tecnologi
 - **A Solução:** Plataforma financeira gamificada onde educação financeira desbloqueia limites de crédito.
 - **Resultado:** Aumento projetado no engajamento de usuários jovens.
 
-#### 💳 **Banese Card (Product & Tech)**
-*Estágio em Produtos de TI | Multidisciplinar*
-- **Atuação 360º:** Envolvimento em todas as etapas do produto, desde o **Discovery** e **Design** (UX/UI) até estratégias de **Marketing**.
-- **Analytics:** Criação de sistemas e fluxos de dados customizados (utilizando .NET e Excel) para alimentar e facilitar a geração de Dashboards executivos em Looker Studio e Power BI.
+
 
 ---
 
