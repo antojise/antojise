@@ -9,7 +9,6 @@ Sou um profissional híbrido focado na interseção entre **Negócios, Tecnologi
 ### 🛠️ Cinto de Utilidades (Tech & Tools)
 
 **Gestão & Agilidade**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-Methodology-brightgreen)
 ![Kanban](https://img.shields.io/badge/Kanban-Methodology-blue)
@@ -30,15 +29,12 @@ Sou um profissional híbrido focado na interseção entre **Negócios, Tecnologi
 
 #### 🚀 **Innovation Hub (Liga de Empreendedorismo)**
 *Diretor de Projetos | Atual*
-- Liderança de **7 iniciativas simultâneas** de inovação.
-- Estruturação completa da governança da liga e implementação de rituais ágeis.
 - Treinamento de equipes em ClickUp e frameworks de gestão.
 
 #### 🥇 **HealthTech Integration (Vencedor - Bootcamp Adoradores de Startups)**
-*Líder de Equipe & Produto*
 - **O Desafio:** Fragmentação de dados médicos e exames.
 - **A Solução:** Plataforma centralizadora de histórico médico.
-- **Meu Papel:** Definição do produto (Discovery), priorização de features e pitch final.
+- **Meu Papel:** Definição do produto (Discovery), priorização de feature.
 
 #### 🥇 **FinTech Gamification (Vencedor - Desafio Mulvi)**
 *Product Discovery & UX*
