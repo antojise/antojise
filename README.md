@@ -8,8 +8,6 @@ Sou um profissional híbrido focado na interseção entre **Negócios, Tecnologi
 
 ### 🛠️ Cinto de Utilidades (Tech & Tools)
 
-### 🛠️ Cinto de Utilidades (Tech & Tools)
-
 **Gestão Visual & Agilidade**
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
