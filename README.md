@@ -1,6 +1,6 @@
 ### Olá, eu sou o Antônio José! 👋
 
-**Product Owner | Analista de Projetos & Processos | Entusiasta de Dados**
+**Analista de Projetos & Processos | Entusiasta de Dados**
 
 Sou um profissional híbrido focado na interseção entre **Negócios, Tecnologia e Agilidade**. Atualmente, atuo como Diretor de Projetos na *Innovation Hub* e busco transformar problemas complexos em soluções digitais eficientes.
 
