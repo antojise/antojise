@@ -1,4 +1,4 @@
-### Olá, eu sou o Antônio José! 👋
+### Olá, eu sou o Antônio José! 
 
 **Analista de Projetos & Processos | Entusiasta de Dados**
 
@@ -6,7 +6,7 @@ Sou um profissional híbrido focado na interseção entre **Negócios, Tecnologi
 
 ---
 
-### 🛠️ Cinto de Utilidades (Tech & Tools)
+###  Cinto de Utilidades (Tech & Tools)
 
 **Gestão Visual & Agilidade**
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
@@ -33,23 +33,23 @@ Sou um profissional híbrido focado na interseção entre **Negócios, Tecnologi
 
 ---
 
-### 🏆 Projetos em Destaque
+###  Projetos em Destaque
 
-#### 💳 **Banese Card (Product & Tech)**
+####  **Banese Card (Product & Tech)**
 *Produtos de TI | Multidisciplinar*
 - **Atuação 360º:** Envolvimento em todas as etapas do produto, desde o **Discovery** e **Design** (UX/UI) até estratégias de **Marketing**.
 - **Analytics:** Criação de sistemas e fluxos de dados customizados (utilizando .NET e Excel) para alimentar e facilitar a geração de Dashboards executivos em Looker Studio e Power BI.
 
-#### 🚀 **Innovation Hub (Liga de Empreendedorismo)**
+####  **Innovation Hub (Liga de Empreendedorismo)**
 *Diretor de Projetos | Atual*
 - Treinamento de equipes em ClickUp e frameworks de gestão.
 
-#### 🥇 **HealthTech Integration (Vencedor - Bootcamp Adoradores de Startups)**
+####  **HealthTech Integration (Vencedor - Bootcamp Adoradores de Startups)**
 - **O Desafio:** Fragmentação de dados médicos e exames.
 - **A Solução:** Plataforma centralizadora de histórico médico.
 - **Meu Papel:** Definição do produto (Discovery), priorização de feature.
 
-#### 🥇 **FinTech Gamification (Vencedor - Desafio Mulvi)**
+####  **FinTech Gamification (Vencedor - Desafio Mulvi)**
 *Product Discovery & UX*
 - **A Solução:** Plataforma financeira gamificada onde educação financeira desbloqueia limites de crédito.
 - **Resultado:** Aumento projetado no engajamento de usuários jovens.
@@ -58,6 +58,6 @@ Sou um profissional híbrido focado na interseção entre **Negócios, Tecnologi
 
 ---
 
-### 📫 Contato
+###  Contato
 - **LinkedIn:** [linkedin.com/in/antônio-josé](https://linkedin.com/in/antônio-josé)
 - **Email:** antojise@gmail.com
